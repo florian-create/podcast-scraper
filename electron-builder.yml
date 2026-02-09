@@ -1,0 +1,26 @@
+appId: com.floriancailles.podcast-scraper
+productName: Podcast Scraper
+directories:
+  output: dist/electron
+  buildResources: build
+files:
+  - src/main/**/*
+  - dist/renderer/**/*
+  - package.json
+mac:
+  category: public.app-category.productivity
+  target:
+    - target: dmg
+      arch:
+        - x64
+        - arm64
+  darkModeSupport: true
+dmg:
+  title: Podcast Scraper
+  contents:
+    - x: 130
+      y: 220
+    - x: 410
+      y: 220
+      type: link
+      path: /Applications

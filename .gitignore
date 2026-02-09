@@ -1,0 +1,9 @@
+node_modules/
+dist/
+out/
+.env
+*.dmg
+*.app
+.DS_Store
+.vscode/
+.idea/
