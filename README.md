@@ -8,7 +8,11 @@ Extract, transcribe & analyze podcasts from Apple Podcasts, Spotify & YouTube. G
 
 ## Demo
 
-https://github.com/florian-create/podcast-scraper/raw/main/demo.mp4
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WW9zScPXCec">
+    <img src="screenshots/demo-thumbnail.jpg" alt="Watch demo on YouTube" width="100%">
+  </a>
+</div>
 
 ## Screenshots
 
