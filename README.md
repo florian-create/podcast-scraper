@@ -10,7 +10,7 @@
 
 ## Demo
 
-https://github.com/florian-create/podcast-scraper/raw/main/demo.mp4
+[![Watch the demo](https://img.youtube.com/vi/WW9zScPXCec/maxresdefault.jpg)](https://www.youtube.com/watch?v=WW9zScPXCec)
 
 ## Screenshots
 
