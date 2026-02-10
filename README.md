@@ -8,13 +8,13 @@ Extract, transcribe & analyze podcasts from Apple Podcasts, Spotify & YouTube. G
 
 ## Demo
 
-[![Watch the demo](screenshots/demo-thumbnail.jpg)](https://www.youtube.com/watch?v=WW9zScPXCec)
+https://github.com/florian-create/podcast-scraper/raw/main/demo.mp4
 
 ## Screenshots
 
 | URL Input | Extraction Results | Settings |
 |:-:|:-:|:-:|
-| ![URL Input](screenshots/01-url-input.png) | ![Results](screenshots/02-extraction-results.png) | ![Settings](screenshots/03-settings.png) |
+| [![URL Input](screenshots/01-url-input.png)](screenshots/01-url-input.png) | [![Results](screenshots/02-extraction-results.png)](screenshots/02-extraction-results.png) | [![Settings](screenshots/03-settings.png)](screenshots/03-settings.png) |
 
 ## Features
 
